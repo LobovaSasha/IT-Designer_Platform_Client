@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Проект: «Платформа для дизайнеров»
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Цель нашего проекта: создание платформы для дизайнеров, на которой они смогут размещать созданные миры - собственные творческие проекты. Такой сайт позволит дизайнерам распространить свои работы и познакомиться с чужими, а также виртуальная версия миров упрощает их просмотр для любых желающих.
 
-## Available Scripts
+Ссылка на презентацию проекта: http://pd-2021-2-it-for-designers.std-1358.ist.mospolytech.ru/
 
-In the project directory, you can run:
+## Участники
 
-### `npm start`
+| Учебная группа | Имя пользователя | ФИО                      |
+|----------------|------------------|--------------------------|
+| 201-363       | @username1       | Лобова А. Г.            |
+| 201-363        | @username2       | Тюкавкина Е. Н.           |
+| 201-321        | @username3       | Слетков С. Е. |
+| 191-723        | @username2       | Базанова О. В.             |
+| 201-363       | @username3       |Степаненко М. А. |
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Личный вклад участников
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Лобова А. Г. 
 
-### `npm test`
+Занималась разработкой серверной части приложения и ее связью с клиентской частью, созданием авторизации с использованием токенов в объеме 77 часов.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Тюкавкина Е. Н.   
 
-### `npm run build`
+Разрабатывала базу данных, серверную часть приложения с возможность добавления пользователей, фотографий и миров в объеме 79 часов.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Слетков С. Е.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Занимался созданием клиентской части приложения в объеме ... часов.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Базанова О. В.
 
-### `npm run eject`
+Разработала компоновку страниц для разных платформ приложения для мобильной версии приложения (Android и IOS), компьютерной версии. Зайдизайнила веб-страницу миров и продумала их концепцию в объеме 72 часов. 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Степаненко М. А.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Занимался разработкой серверной части приложения в объеме ... часов.
